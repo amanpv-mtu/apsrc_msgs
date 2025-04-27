@@ -8,3 +8,4 @@ float32 time_to_stop
 float32 cycle_time_red
 float32 cycle_time_yellow
 float32 cycle_time_green
+uint8 phase_when_crossed
